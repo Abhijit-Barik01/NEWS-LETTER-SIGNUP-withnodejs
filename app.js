@@ -60,7 +60,3 @@ res.redirect("/");
 app.listen(process.env.PORT ||3000, function(){
 	console.log("runing 3000 listening");
 });
-//api key
-//50970cb38b87141d6ad874bc4e23ac34-us1
-//list id
-//e8de8d7db0
